@@ -4,3 +4,9 @@
 [submodule "Project-2-File_Organizer-"]
 	path = Project-2-File_Organizer-
 	url = https://github.com/shrishreshth546/Project-2-File_Organizer-.git
+[submodule "Project_3_Password_Manager"]
+	path = Project_3_Password_Manager
+	url = https://github.com/shrishreshth546/Project_3_Password_Manager.git
+[submodule "Project_4_Quiz_Game"]
+	path = Project_4_Quiz_Game
+	url = https://github.com/shrishreshth546/Project_4_Quiz_Game.git
