@@ -8,6 +8,12 @@ The goal is to build a portfolio of practical applications that highlight proble
 ---
 
 ## 📂 Projects Included
+
+- Project 1: URL Shortener  
+  A Python project that converts long URLs into shorter, manageable links.  
+  Features: Generates unique short links, stores mappings in a database/file, and redirects users to the original URL.  
+  Focus: Web development basics, database handling, Python logic.
+  
 - **Project 2: File Organizer**  
   A Python script that organizes files in a directory based on their extensions (e.g., images, documents, audio).  
   Focus: File handling, automation, and OS module usage.
@@ -17,7 +23,7 @@ The goal is to build a portfolio of practical applications that highlight proble
   Features: Generate strong passwords, store credentials in JSON, copy to clipboard.  
   Focus: GUI design, modular programming, security concepts.
 
-  - **Project 4: Quiz Game**  
+- **Project 4: Quiz Game**  
   A Python quiz application that reads questions from a JSON file, quizzes the user, and calculates scores.  
   Features: Multiple-choice questions, scoring algorithm, feedback system.  
   Focus: Logic building, file handling, user interaction.
